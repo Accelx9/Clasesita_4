@@ -1,0 +1,34 @@
+.o-info-container{
+    background-color: aqua;
+    border: 4px solid black;
+    font-size: 30px;
+}
+.o-big-container {
+    margin: 2rem ;
+    background-color:bisque;
+    border: 3px solid black;
+}
+
+.o-projects{
+    margin: 1rem;
+    padding: 1rem;
+    background-color:cadetblue;
+    border: 2px solid black;
+    
+}
+
+.o-img-profile{
+    width: 15rem;
+    height: 15rem;
+    
+}
+
+#container1{
+background-color: cornflowerblue
+}
+
+
+#container2{
+background-color: darkgoldenrod
+}
+
